@@ -26,8 +26,6 @@ function corkey()
         Content = "Loading Your shit",
         Image = "rbxassetid://4483345998",
         Time = 5
-    })
-end
 
 local uiScreen = Instance.new("ScreenGui")
 uiScreen.ResetOnSpawn = false -- Persist GUI on respawn
